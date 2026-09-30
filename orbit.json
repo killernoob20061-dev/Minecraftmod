@@ -1,0 +1,13 @@
+{
+  "type": "worldeater:orbit",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "worldeater:orbit",
+      "layers": [],
+      "lakes": false,
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}
